@@ -1,0 +1,6 @@
+function clickMe()
+{
+    var a = document.getElementById('txt ');
+    console.log(txt.innerHTML);
+    txt.innerHTML="Suppose you've included an email field in a form, and     you've made it a required field The form has a submit button that the     user clicks to submit the information that he's entered in the form. This is     the markup that creates the form. I've simplified it, omitting any form        action and other attributes, including linebreaks, that don't bear on what      you're learning here.";
+}
